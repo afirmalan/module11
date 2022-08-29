@@ -1,6 +1,6 @@
 # Module 11
 
-Simple overview of use/purpose.
+The use of the project is to create a note taking website for people to save and title.
 
 ## Description
 
